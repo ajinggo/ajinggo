@@ -14,11 +14,11 @@
 
 ## Projects 项目
 
-### [CostBuddy · 小算盘](https://costbuddy.space)
+### [CostBuddy 你的做T搭子](https://costbuddy.space)
 
-A practical calculator for estimating cost basis after buying, selling, or adjusting a position in Hong Kong and U.S. stocks.
+A practical calculator for estimating cost basis after buying, selling, or adjusting a position in Hong Kong stocks, mainland China A-shares, and U.S. stocks.
 
-帮助测算港股和美股买卖、加仓或减仓后的回本成本与方案。
+帮助测算港股、A 股和美股买卖、加仓或减仓后的回本成本与方案。
 
 `HTML` `CSS` `JavaScript` · [Source code 源码](https://github.com/ajinggo/costbuddy)
 
