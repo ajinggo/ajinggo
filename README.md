@@ -1,5 +1,5 @@
 <picture>
-  <img src="./assets/haiyan-cover.svg" alt="Haiyan 的工具间：把日常问题，做成顺手的工具。Small tools, thoughtfully built." width="100%">
+  <img src="./assets/haiyan-cover.svg" alt="Haiyan 的工具间：算算持仓成本，记记信用卡账单。Small tools, thoughtfully built." width="100%">
 </picture>
 
 <br>

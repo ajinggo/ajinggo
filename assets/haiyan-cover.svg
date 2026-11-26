@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
 <title id="title">Haiyan 的工具间</title>
-<desc id="desc">把日常问题，做成顺手的工具。暖白色背景，右侧为成本测算与账单记录的抽象图形。</desc>
+<desc id="desc">算算持仓成本，记记信用卡账单。暖白色背景，右侧为成本测算与账单记录的抽象图形。</desc>
 <defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#d9dfd5"/></pattern></defs>
 <rect width="1200" height="440" rx="16" fill="#f3f4ed"/>
 <path d="M44 48h30m-30 0v30M1156 362v30h-30" fill="none" stroke="#98aa98" stroke-width="2"/>
 <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
 <text x="70" y="90" font-size="15" letter-spacing="3" fill="#52725e">HAIYAN / PERSONAL WORKSHOP</text>
 <text x="66" y="172" font-size="62" font-weight="650" letter-spacing="-2" fill="#213e31">Haiyan 的工具间</text>
-<text x="70" y="239" font-size="32" font-weight="500" fill="#213e31">把日常问题，</text>
-<text x="70" y="287" font-size="32" font-weight="500" fill="#213e31">做成顺手的工具。</text>
+<text x="70" y="239" font-size="32" font-weight="500" fill="#213e31">算算持仓成本，</text>
+<text x="70" y="287" font-size="32" font-weight="500" fill="#213e31">记记信用卡账单。</text>
 <text x="70" y="355" font-size="17" fill="#667467">Small tools, thoughtfully built.</text>
 <path d="M70 382h570" stroke="#d3dbcf"/>
 <text x="70" y="409" font-size="12" letter-spacing="1.4" fill="#667467">BUILD · LEARN · REFINE</text>
