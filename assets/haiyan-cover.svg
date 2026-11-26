@@ -1,8 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
 <title id="title">Haiyan / ajinggo</title>
-<desc id="desc">银白与冰蓝色的液态玻璃封面。持仓成本计算器信用卡账本</desc>
+<desc id="desc">Haiyan / ajinggo。银白液态玻璃封面，展示持仓成本计算器与信用卡账本。</desc>
 <defs>
- <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f8fafc"/><stop offset=".55" stop-color="#edf2f8"/><stop offset="1" stop-color="#dfe8f4"/></linearGradient>
+ <linearGradient id="ribbon" x1=".1" y1="0" x2=".9" y2="1"><stop stop-color="#fefefe"/><stop offset=".2" stop-color="#c5d4e9"/><stop offset=".34" stop-color="#fbfdff"/><stop offset=".43" stop-color="#869cba"/><stop offset=".49" stop-color="#e9f3ff"/><stop offset=".63" stop-color="#c5d9f1"/><stop offset=".8" stop-color="#fff"/><stop offset="1" stop-color="#93a9c7"/></linearGradient>
+ <linearGradient id="ribbon-edge" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".5" stop-color="#d5e5fa"/><stop offset="1" stop-color="#fff"/></linearGradient>
+ <radialGradient id="pearl" cx=".32" cy=".22"><stop stop-color="#fff"/><stop offset=".5" stop-color="#eff5ff"/><stop offset=".82" stop-color="#b4c8e5"/><stop offset="1" stop-color="#dee8f8"/></radialGradient>
+
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f8fafc"/><stop offset=".55" stop-color="#edf2f8"/><stop offset="1" stop-color="#e6eaf2"/></linearGradient>
  <radialGradient id="orb" cx=".3" cy=".2" r=".9"><stop stop-color="#fff"/><stop offset=".28" stop-color="#d9eaff"/><stop offset=".59" stop-color="#8db7ee"/><stop offset=".8" stop-color="#c8dcf4"/><stop offset="1" stop-color="#eef5ff"/></radialGradient>
  <linearGradient id="glass" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#fff" stop-opacity=".84"/><stop offset=".46" stop-color="#fff" stop-opacity=".38"/><stop offset="1" stop-color="#e9f2ff" stop-opacity=".56"/></linearGradient>
  <linearGradient id="edge" x2=".8" y2="1"><stop stop-color="#fff"/><stop offset=".4" stop-color="#fff" stop-opacity=".9"/><stop offset=".7" stop-color="#a4b9d4" stop-opacity=".35"/><stop offset="1" stop-color="#fff"/></linearGradient>
@@ -17,30 +21,29 @@
  <ellipse cx="1030" cy="55" rx="240" ry="150" fill="#fff" opacity=".8" filter="url(#blur)"/>
  <ellipse cx="885" cy="310" rx="150" ry="95" fill="#a8cbf8" opacity=".48" filter="url(#blur)"/>
  <ellipse cx="550" cy="460" rx="320" ry="95" fill="#fff" opacity=".7" filter="url(#blur)"/>
- <circle cx="954" cy="191" r="119" fill="url(#orb)" filter="url(#softshadow)"/>
- <ellipse cx="923" cy="126" rx="60" ry="26" transform="rotate(-29 923 126)" fill="#fff" opacity=".65" filter="url(#blur)"/>
- <g transform="translate(760 118) rotate(-9 150 110)" filter="url(#shadow)">
-  <rect width="310" height="218" rx="30" fill="url(#glass)" stroke="url(#edge)" stroke-width="2"/>
-  <rect x="7" y="7" width="296" height="204" rx="24" fill="none" stroke="#fff" stroke-opacity=".38"/>
-  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" fill="#344e6d">
-   <text x="28" y="46" font-size="12" letter-spacing="1.5">COSTBUDDY</text>
-   <text x="28" y="89" font-size="27" font-weight="600" letter-spacing="-.5">Cost basis</text>
-  </g>
-  <path d="M29 127h252M29 177h252" stroke="#8da8cd" stroke-opacity=".19"/>
-  <path d="m30 160 46 10 48-24 48 8 51-31 53 4" fill="none" stroke="#6b91c7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="276" cy="127" r="5" fill="#fff" stroke="#6b91c7" stroke-width="2"/>
+ <ellipse cx="931" cy="363" rx="171" ry="15" fill="#7894bb" opacity=".16" filter="url(#blur)"/>
+ <g transform="translate(925 211) rotate(-28)" filter="url(#shadow)">
+  <ellipse rx="130" ry="120" fill="none" stroke="url(#ribbon)" stroke-width="69"/>
+  <ellipse rx="163" ry="153" fill="none" stroke="url(#ribbon-edge)" stroke-width="1.8" opacity=".95"/>
+  <ellipse rx="96" ry="86" fill="none" stroke="#fff" stroke-width="2" opacity=".7"/>
+  <path d="M-157-35C-140-128-30-182 65-136" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity=".75"/>
  </g>
- <g transform="translate(1000 265) rotate(12 68 55)" filter="url(#softshadow)">
-  <rect width="139" height="110" rx="26" fill="url(#glass)" stroke="url(#edge)" stroke-width="2"/>
-  <g fill="none" stroke="#637d9f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m25 31 4 4 8-9m-12 29 4 4 8-9m-12 29 4 4 8-9"/><path d="M50 31h62M50 55h44M50 79h55" opacity=".65"/></g>
+ <g transform="translate(751 188) rotate(-7 149 79)" filter="url(#shadow)">
+  <rect y="5" width="298" height="158" rx="29" fill="#a7bad5" opacity=".3"/>
+  <rect width="298" height="158" rx="29" fill="url(#glass)" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="6" y="6" width="286" height="146" rx="24" fill="none" stroke="#fff" stroke-opacity=".55"/>
+  <text x="26" y="40" font-family="-apple-system,sans-serif" font-size="13" letter-spacing="1" fill="#4f6481">CostBuddy</text>
+  <path d="M26 75h245M26 119h245" stroke="#7c99c0" opacity=".14"/>
+  <path d="m27 109 39 7 43-19 38 6 52-32 68 8" fill="none" stroke="#6d8fbf" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="267" cy="79" r="5" fill="#fff" stroke="#6d8fbf" stroke-width="2"/>
  </g>
- <circle cx="797" cy="348" r="24" fill="none" stroke="url(#chrome)" stroke-width="12" filter="url(#softshadow)"/>
- <circle cx="1102" cy="102" r="17" fill="url(#orb)" stroke="#fff" stroke-opacity=".8"/>
+ <circle cx="1096" cy="316" r="31" fill="url(#pearl)" stroke="#fff" stroke-opacity=".8" filter="url(#softshadow)"/>
+ <circle cx="790" cy="95" r="12" fill="url(#pearl)" stroke="#fff" stroke-opacity=".9"/>
  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
-  <text x="64" y="78" font-size="14" fill="#6d7b8e" letter-spacing="2.5">HAIYAN / PERSONAL PROJECTS</text>
-  <text x="60" y="164" font-size="62" font-weight="650" fill="#25354b" letter-spacing="-2">Haiyan / ajinggo</text>
-  <text x="64" y="234" font-size="31" fill="#4b607b">持仓成本计算器</text>
-  <text x="64" y="280" font-size="31" fill="#4b607b">信用卡账本</text>
+  <text x="64" y="80" font-size="12" fill="#6d7b8e" letter-spacing="2.5">PERSONAL PROJECTS</text>
+  <text x="60" y="164" font-size="64" font-weight="650" fill="#25354b" letter-spacing="-2">Haiyan / ajinggo</text>
+  <text x="64" y="236" font-size="25" fill="#4b607b">持仓成本计算器</text>
+  <text x="64" y="278" font-size="25" fill="#4b607b">信用卡账本</text>
   <g transform="translate(64 342)">
    <rect width="128" height="36" rx="18" fill="#fff" fill-opacity=".54" stroke="#fff" stroke-opacity=".9"/>
    <text x="64" y="23" text-anchor="middle" font-size="12" fill="#586e8a">CostBuddy</text>
