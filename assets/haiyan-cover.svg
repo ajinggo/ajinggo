@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Haiyan 的工具间</title>
+<desc id="desc">把日常问题，做成顺手的工具。暖白色背景，右侧为成本测算与账单记录的抽象图形。</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#d9dfd5"/></pattern></defs>
+<rect width="1200" height="440" rx="16" fill="#f3f4ed"/>
+<path d="M44 48h30m-30 0v30M1156 362v30h-30" fill="none" stroke="#98aa98" stroke-width="2"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+<text x="70" y="90" font-size="15" letter-spacing="3" fill="#52725e">HAIYAN / PERSONAL WORKSHOP</text>
+<text x="66" y="172" font-size="62" font-weight="650" letter-spacing="-2" fill="#213e31">Haiyan 的工具间</text>
+<text x="70" y="239" font-size="32" font-weight="500" fill="#213e31">把日常问题，</text>
+<text x="70" y="287" font-size="32" font-weight="500" fill="#213e31">做成顺手的工具。</text>
+<text x="70" y="355" font-size="17" fill="#667467">Small tools, thoughtfully built.</text>
+<path d="M70 382h570" stroke="#d3dbcf"/>
+<text x="70" y="409" font-size="12" letter-spacing="1.4" fill="#667467">BUILD · LEARN · REFINE</text>
+</g>
+<rect x="755" y="50" width="395" height="340" fill="url(#grid)"/>
+<g transform="translate(785 90) rotate(-6 135 106)">
+<rect x="6" y="9" width="275" height="215" rx="14" fill="#dce3d7"/>
+<rect width="275" height="215" rx="14" fill="#fffef9" stroke="#c9d4c4"/>
+<path d="M0 39h275" stroke="#e0e5d9"/>
+<circle cx="20" cy="20" r="3" fill="#8fa68c"/><circle cx="32" cy="20" r="3" fill="#b3c1a9"/><circle cx="44" cy="20" r="3" fill="#d2d9c9"/>
+<text x="20" y="72" font-family="sans-serif" font-size="12" letter-spacing="1" fill="#667467">COSTBUDDY</text>
+<text x="20" y="115" font-family="sans-serif" font-size="29" font-weight="600" fill="#213e31">a little clearer.</text>
+<path d="M22 186h230M22 144h230" stroke="#e5e9df"/>
+<path d="M25 164l46 13 46-20 46 7 44-31 40 4" stroke="#4e7957" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="247" cy="137" r="5" fill="#4e7957" stroke="#fffef9" stroke-width="2"/>
+</g>
+<g transform="translate(966 252) rotate(7 79 68)">
+<rect x="4" y="7" width="170" height="123" rx="12" fill="#cbd7c6"/>
+<rect width="170" height="123" rx="12" fill="#294c38"/>
+<text x="18" y="29" font-family="sans-serif" font-size="11" letter-spacing="1.5" fill="#d8e3cf">LEDGER / NOTES</text>
+<g fill="none" stroke="#adca9a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m19 53 4 4 8-9M19 79l4 4 8-9M19 104l4 4 8-9"/></g>
+<g stroke="#75977a" stroke-width="3" stroke-linecap="round"><path d="M43 53h100M43 79h76M43 104h92"/></g>
+</g>
+</svg>
